@@ -1,2 +1,3 @@
 vless://367b008b-9d96-4de2-8f9f-634cb49793d2@media.ovo.id:80?path=%2Fvless&security=none&encryption=none&host=quiz.int.vidio.com.barokah.me&type=ws#occcee
 vless://5718685e-760e-458b-9a40-b1890256b010@ovo.id:443?path=%2F%3Fed%3Dahmadstore&security=tls&encryption=none&host=ind.barokah.me&type=ws&sni=ind.barokah.me#ind.barokah.me
+vless://7213d82f-e52d-404a-a2c1-4710d20b3883@ovo.id:80?path=%2Fvless&security=none&encryption=none&host=quiz.int.vidio.com.barokah.me&type=ws#ahku
