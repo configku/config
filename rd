@@ -1,0 +1,1 @@
+vless://33fc1b43-d2b0-485a-a0ed-caf6e8186519@quiz.vidio.com:443?path=%2F%3Fed%3Dahmadstore&security=tls&encryption=none&host=ahmad.barokah.me&type=ws&sni=ahmad.barokah.me#ahmad.barokah.me
